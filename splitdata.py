@@ -17,12 +17,13 @@ def splitdata(datadir, src, tgt, outdir):
     with open(f'{datadir}/{tgt}') as tgtfile:
         tgt_words = tgtfile.read().splitlines()
     pairs = list(zip(src_words, tgt_words))
-    pairs = [(s, t) for s, t in pairs if s != '-' and t != '-']
+    pairs = [(s, t) for s, t in pairs
+             if s != '-' and t != '-' and len(s) > 0 and len(t) > 0]
     random.shuffle(pairs)
 
-    train = pairs[:int(len(pairs) * 0.6)]
-    dev = pairs[int(len(pairs) * 0.6):int(len(pairs) * 0.8)]
-    test = pairs[int(len(pairs) * 0.8):]
+    train = pairs[:int(len(pairs) * 0.8)]
+    dev = pairs[int(len(pairs) * 0.8):int(len(pairs) * 0.9)]
+    test = pairs[int(len(pairs) * 0.9):]
 
     for name, datasplit in [('train', train), ('dev', dev), ('test', test)]:
         with open(f'{outdir}/{name}.{src}', 'w') as srcfile, \
