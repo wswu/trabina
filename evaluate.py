@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 
+import os.path
 import sys
 
 
 def compute_accuracy(goldpath, hypspath):
-    with open(goldpath) as goldfile, open(hypspath) as hypsfile:
+    with open(goldpath, encoding='utf-8') as goldfile, \
+         open(hypspath, encoding='utf-8') as hypsfile:
         correct = 0
         total = 0
         for gold, hyp in zip(goldfile, hypsfile):
@@ -12,7 +14,7 @@ def compute_accuracy(goldpath, hypspath):
             hyp = hyp.strip().replace(' ', '').replace('_', ' ')
 
             # for n-best list
-            if ',' in hyp:
+            if '(' in hyp:
                 hyp = hyp.split(',')[0]
                 hyp = hyp[:hyp.find('(')]
 
@@ -23,9 +25,8 @@ def compute_accuracy(goldpath, hypspath):
 
 
 if __name__ == '__main__':
-    expdir = sys.argv[1]
-    tgtlang = sys.argv[2]
-    print('Moses')
-    print(compute_accuracy(f'{expdir}/test.{tgtlang}', f'{expdir}/test.nlist'))
-    print('Unidecode')
-    print(compute_accuracy(f'{expdir}/test.{tgtlang}', f'{expdir}/test.unidecode'))
+    goldpath = sys.argv[1]
+    for nbestfile in sys.argv[2:]:
+        model = os.path.basename(nbestfile)
+        acc = compute_accuracy(goldpath, nbestfile + '/test.nlist')
+        print(model, acc, sep='\t')
