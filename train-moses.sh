@@ -1,5 +1,5 @@
 #DATA=$(pwd)/data/by-lang/
-#MOSES=/home/wwu/mosesdecoder
+MOSES=/home/wwu/mosesdecoder
 
 #SRC=rus_centralasian
 #TGT=eng

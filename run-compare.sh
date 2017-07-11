@@ -1,5 +1,4 @@
 NAMESDIR=$(pwd)/data/by-lang/
-MOSES=/home/wwu/mosesdecoder
 
 PYTHON=/home/wwu/softw/anaconda3/envs/py36/bin/python
 
