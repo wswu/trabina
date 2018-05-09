@@ -1,0 +1,52 @@
+unidecode	sequitur	moses	moses-with-pre	moses-with-post	opennmt2	consensus	weighted
+paai laa too si o p		p i l a t o s	p i l a t o s	p i l a t o s	p h e r o s	p i l a t o s	p i l a t o s
+taai moo ni mi c lo		t i m o n c a n	t i m o n i c a n	t i m o n c a n	m i d o n	t i m o n c a n	t i m o n c a n
+yo a na si		j o a n a s	j o h n	j o a n a s	j o n a	j o a n a s	j o a n a s
+a ta ni o p		a t a n a h	a t a i n	a t a n a h	j a r a	a t a n a h	a t a n a h
+ca li li a mi t		g a l l i a s	t e t r a h	g a l l i a s	p h e r o s	g a l l i a s	g a l l i a s
+yii so si		j e s u s	j e s h u	j e s u s	j e s	j e s u s	j e s u s
+koo sa mi o p		c o s a m a h	c o s a m a h	c o s a m a h	m e r o s	c o s a m a h	c o s a m a h
+ii fi		i v	i v	i v	m e r e s	i v	i v
+ca li li a mi t		g a l l i a s	t e t r a h	g a l l i a s	p h e r o s	g a l l i a s	g a l l i a s
+si a l ti o li o p		s a l e t u l i a h	s a l t a l i	s a l e t u l i a h	p h e r o s	s a l e t u l i a h	s a l e t u l i a h
+o kii yo fi ni o ng ma t		u ᑮ j o v u n o m a s	e u kii u v u n z a h	u kii j o v u n o m a s	j e r u s	o kii yo fi ni o ng ma t	
+aa ko i laa lo		a c e l w	a c e l u s	a c e l w	m a r a	a c e l w	a c e l w
+paa ra sii t		p h a r c e e s	p h a r c e e s	p h a r c e e s	b a r a n	p h a r c e e s	p h a r c e e s
+no na li ngi n no a li la o q po nga		d a n l i n n d a l l i o l	d a n l u d i l i e d e	d a n l i n n d a l l i o l	s h e r o n	d a n l i n n d a l l i o l	d a n l i n n d a l l i o l
+i no a q ta o ni nga		e d i t u n e l	e d i t u e l	e d i t u n e l	s e r e n	e d i t u n e l	e d i t u n e l
+po a si		p a s	d a s	p a s	p h e r o s	p a s	p a s
+yoo ta si		j o t u s	j e s	j o t u s	j o d u s	j o t u s	j o t u s
+mi a ri		m a r	m a r	m a r	p h e r o s	m a r	m a r
+i sa ka ri o p		e s a c r a h	e s c a r a h	e s a c r a h	s e r e s	e s a c r a h	e s a c r a h
+pi li caa n lo		p e l e g a n w	b e l g o n w	p e l e g a n w	p h e r e n	p e l e g a n w	p e l e g a n w
+la o ti si a mi o t		l a o d i c e a	l a o d i c e a	l a o d i c e a	p h e r o s	l a o d i c e a	l a o d i c e a
+a ri s ta koo si o p		a r i s t c u s h a	a r i s t a c u s u s	a r i s t c u s h a	p h o r o n	a r i s t c u s h a	a r i s t c u s h a
+saai o ni mi		s h e m	s i o n y	s h e m	m e r e s	s h e m	s h e m
+pii pi		p h e b	p e b	p h e b	p h e r e	p h e b	p h e b
+ci t sa ma ni mo a ra mi c lo		g o t a m a n i r c a n	g e t h s a n n a a r c a n	g o t a m a n i r c a n	p h e r o s	g o t a m a n i r c a n	g o t a m a n i r c a n
+ka pa too si a mi		c a p d o s a m	c a p d o s i a	c a p d o s a m	p h e r o s	c a p d o s a m	c a p d o s a m
+laai si a si		l i s a s	l s a s	l i s a s	s e s h i s	l i s a s	l i s a s
+X		m e s s i a h	c h r i s t	m e s s i a h	m e s	m e s s i a h	m e s s i a h
+kaai ni o p		c e n e s	c h i n	c e n e s	m e r u s	c e n e s	c e n e s
+mi a ri		m a r	m a r	m a r	p h e r o s	m a r	m a r
+i kaa li q po q		e ᑳ e l i o n	e kaa l i d i	e kaa e l i o n	s e n e n	i kaa li q po q	
+mi so po taai mi a mi lo		m s o t i m a m w	m i s p u t y m a s	m s o t i m a m w	p h e r o s	m s o t i m a m w	m s o t i m a m w
+yoo si pi		j o s e p h	j e p h	j o s e p h	j e n e s	j o s e p h	j o s e p h
+aai si a mi o taa k		a s a m u d a	a a c u n d u s	a s a m u d a	m a r o n	a s a m u d a	a s a m u d a
+paa la k		p l a k	b a l a k	p l a k	b e r a	p l a k	p l a k
+ii p roo ti to t		i h r o d i d e s	i s r t t h	i h r o d i d e s	p h e r o s	i h r o d i d e s	i h r o d i d e s
+paai ti ni a mii t to no l lo		p e n e a z o t d d o	p i n a z e d r o	p e n e a z o t d d o	p h e r o s	p e n e a z o t d d o	p e n e a z o t d d o
+yi ko naai a		z e c o n i a	j c o n i a	z e c o n i a	j e r e s	z e c o n i a	z e c o n i a
+maa k ta lii ni		m a g d a l a	m a g d a l a	m a g d a l a	m a r o n	m a g d a l a	m a g d a l a
+i laai t ya		e l i j a h	e l i a	e l i j a h	s e n e n	e l i j a h	e l i j a h
+si n si ri a mi o ni		s u s r a m o n	s e n c h r e a	s u s r a m o n	s h i d i c	s u s r a m o n	s u s r a m o n
+taai moo ni mi c lo		t i m o n c a n	t i m o n i c a n	t i m o n c a n	m i d o n	t i m o n c a n	t i m o n c a n
+aai c ca		a p g a	a p g	a p g a	m a r a	a p g a	a p g a
+saai la si lo		s i l a s	s a l a s	s i l a s	s e n e n	s i l a s	s i l a s
+i pi so si mo t		e p h e s u s	e p h e s u s	e p h e s u s	s e r e s	e p h e s u s	e p h e s u s
+sa mi a ri a mi lo		s a m a r a m w	s a m a r i a s	s a m a r a m w	p h e r o n	s a m a r a m w	s a m a r a m w
+si li o si a mo a q poo k		s l i u s a p h i p a	c l o s i a i p k	s l i u s a p h i p a	p h e r o s	s l i u s a p h i p a	s l i u s a p h i p a
+sa o lo sii		s h a o l	s h a o l	s h a o l	m e r a	s h a o l	s h a o l
+a pi li ni mi		a b l i n m	a p e l e m	a b l i n m	p h e r o n	a b l i n m	a b l i n m
+pi li paai mo a q po co t		b e l p h i p g o t	b e l p a i d g e	b e l p h i p g o t	p h e r o n	b e l p h i p g o t	b e l p h i p g o t
+yaai koo p		j a k u b	j a k u b	j a k u b	j e r u s	j a k u b	j a k u b

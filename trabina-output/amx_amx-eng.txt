@@ -1,0 +1,23 @@
+unidecode	sequitur	moses	moses-with-pre	moses-with-post	opennmt2	consensus	weighted
+j a m b r e s	j a m b r e s	a m b r e s	j a m b r e s	a m b r e s	j a r a b	j a m b r e s	j a m b r e s
+d e c a p o l i s	d e c a p o l i s	d e c a p o l i s	d e c a p o l i s	d e c a p o l i s	d u c h a e l u s	d e c a p o l i s	d e c a p o l i s
+m o s e s	m o s e s	m o s e s	m o s e s	m o s e s	m o s e s	m o s e s	m o s e s
+p h i l i p	p h i l i p	p h i l i p	p h i l i p	p h i l i p	p h e l i p p i	p h i l i p	p h i l i p
+c y r e n e - a r e n y	m e n	c h r e n a r	c h r a a r	c h r e n a r	c i o n	c h r e n a r	c h r e n a r
+p i l a t e	p i l a t e	p i l a t e	p i l a t e	p i l a t e	p h i l a t	p i l a t e	p i l a t e
+n a t h a n i e l	n a t h a n i	n a t h a n i e l	m a t h l i a s	n a t h a n i e l	g a t t h e l a s	n a t h a n i e l	n a t h a n i e l
+g a l i l e e	g a l i l a	g a l i l a	g a l i l a	g a l i l a	g a l i l a	g a l i l a	g a l i l a
+j o h n	j o h n	j o h n	j o h n	j o h n	j o h o s	j o h n	j o h n
+b o a n e r g e s	b o a n e r g e s	b o a n r g e s	b o l e r n e s	b o a n r g e s	b o m a n	b o a n e r g e s	b o a n r g e s
+u l p a y e n g	u l p a	u l p a e n g	u l p a e n a	u l p a e n g	p h a e m	u l p a e n g	u l p a e n g
+c l a u d i a	c l a u d i a	c l a u d i a	c l a u d i a	c l a u d i a	c a l e d u n i a	c l a u d i a	c l a u d i a
+u l p a y e n g	u l p a	u l p a e n g	u l p a e n a	u l p a e n g	p h a e m	u l p a e n g	u l p a e n g
+n a z a r e t h	n a p a r e t h	n a z a r t h	n a z a r e t h	n a z a r t h	s a t h a	n a z a r e t h	n a z a r t h
+k w e r - a m p e n y - w a r n	k g e r a	k w r a m e e n w a r n	k u r a m e e n a a o	k w r a m e e n w a r n	s h o r a m	k w r a m e e n w a r n	k w r a m e e n w a r n
+e l i j a h	e l i a s	e l i j a h	e l i a s	e l i j a h	e l i v a h	e l i j a h	e l i j a h
+n g k a r t	n t i a r t	n g k a r t	m a k a r t	n g k a r t	g o l a t	n g k a r t	n g k a r t
+i n e k	a n	i n e k	i n e k	i n e k	j e n	i n e k	i n e k
+t y r e	s i d o n	t y r e	t y r e	t y r e	t i d o n	t y r e	t y r e
+a b r a h a m	a b r a h a m	a b r a h a m	a b r a h a m	a b r a h a m	a b b a b a m	a b r a h a m	a b r a h a m
+s o l o m o n - k e n h	s o l o m o n m a	s o l o m o n - k e n h	s o l o m o n - k a h	s o l o m o n - k e n h	s h o l o m	s o l o m o n - k e n h	s o l o m o n - k e n h
+l e r a y	l e r a	l r a h	l e r a h	l r a h	l a r a r	l r a h	l r a h

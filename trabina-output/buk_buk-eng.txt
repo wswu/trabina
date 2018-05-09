@@ -1,0 +1,59 @@
+unidecode	sequitur	moses	moses-with-pre	moses-with-post	opennmt2	consensus	weighted
+d r u s i l a	d r u s i l a	d r u s i l a	d r u s i l a	d r u s i l a	d r a u s i l a	d r u s i l a	d r u s i l a
+a b r a h a m	a b r a h a m	a b r a h a m	a b r a h a m	a b r a h a m	a b r a a m	a b r a h a m	a b r a h a m
+k o r a	c o r a h	c o r a	c o r a	c o r a	c o r a h	c o r a	c o r a
+e l i s a b e t	e l i s s a b e t h	e l i s a b b e t	e l i s a b e t	e l i s a b b e t	e l i s a	e l i s a b e t	e l i s a b b e t
+a p o l i o n	a p o l i o n	a p o l i o n	a p o l i o n	a p o l i o n	a p o l i n	a p o l i o n	a p o l i o n
+k o s a m	c o s a m	c o s a m	c o s a m	c o s a m	c o s a m	c o s a m	c o s a m
+p o k i a s	p o k i u s	p h o c i a s	p h o c i a s	p h o c i a s	p o r i a s	p h o c i a s	p h o c i a s
+p o m d a u		p a d e m d a u	p h o m d a u	p a d e m d a u	p h o m e d u s	p a d e m d a u	p a d e m d a u
+y u p r e t e s	e u p r e t h e s	e u p r e t e s	e u p r e t e s	e u p r e t e s	j e p r e s	e u p r e t e s	e u p r e t e s
+h a r a n	h a r a n	h a r a n	h a r a n	h a r a n	h a r a n	h a r a n	h a r a n
+s a y o n	z i o n	s a i o n	z i o n	s a i o n	s i o n	z i o n	z i o n
+s i l i s i a - NG g a		s i l i s i a	s i l i s i a	s i l i s i a	s i l i c i a	s i l i s i a	s i l i s i a
+h i m e n e u s	h i m e n e u s	h i m e n e u s	h i m e n e u s	h i m e n e u s	h i m e n u s	h i m e n e u s	h i m e n e u s
+a p o l o s	a p o l o s	a p o l o s	a p o l o s	a p o l o s	a p o l o s	a p o l o s	a p o l o s
+t i g a u c	t y g a o m	t i g a i n n o m	t i g a i n n o m	t i g a i n n o m	h i g e n	t i g a i n n o m	t i g a i n n o m
+a i k o n i a m	i c o n i a m	a i c o n i a m	a i c o n i a m	a i c o n i a m	a i c o n i a	a i c o n i a m	a i c o n i a m
+n a s o n	n a s o n	n a s o n	n a s o n	n a s o n	n a s o n	n a s o n	n a s o n
+i t i o p i a - NG g a		i t i o p p h i a n e s	i t e o p i a	i t i o p p h i a n e s	k u s h	i t i o p p h i a n e s	i t i o p p h i a n e s
+k a n d i s	c a n d i s	c a n d i s	c a n d i s	c a n d i s	c a n d u s	c a n d i s	c a n d i s
+p a l e s a i		p h a r i s a i	p h a r i s a i	p h a r i s a i	p h a l i s	p h a r i s a i	p h a r i s a i
+s i s a r i a	c e s h a r i a	s i s a r i a	s i s a r i a	s i s a r i a	s y s a r i a	s i s a r i a	s i s a r i a
+j u d a	j u d a	j u d a	j u d a	j u d a	j u d a	j u d a	j u d a
+i s o	i s o r	i s o	i s o	i s o	i s o r	i s o	i s o
+e l i u d	e l i u d	e l i u d	e l i u d	e l i u d	e l i u d	e l i u d	e l i u d
+a b e l i n	a b e l i n	a b e l i n	a b e l i n	a b e l i n	a b e l i n	a b e l i n	a b e l i n
+a b e l	a b e l	a b e l	a b e l	a b e l	a b e l	a b e l	a b e l
+s e p o c - NG g a		a p p o n n o m n e s	s e p h i d y s a	a p p o n n o m n e s	s h y r o n	a p p o n n o m n e s	a p p o n n o m n e s
+s t e v e n		s t e v e n	s t e v e n	s t e v e n	s t e r e n	s t e v e n	s t e v e n
+a m o n	a m o n	a m o n	a m o n	a m o n	a m o n	a m o n	a m o n
+m a r i a	m i r i a	m a r i a	m a r i a	m a r i a	m a r i a	m a r i a	m a r i a
+s a l i m	s a l i m	s a l i m	s a l i m	s a l i m	s a l i m	s a l i m	s a l i m
+a l e k s a n d r i a	a l e x a n d r i a	a l e x a n d r i a	a l e x a n d r i a	a l e x a n d r i a	a l e x a n d r e n	a l e x a n d r i a	a l e x a n d r i a
+l i s a n i a s	l y s a n i u s	l i s a n i a s	l i s a n i a s	l i s a n i a s	l y s a i a	l i s a n i a s	l i s a n i a s
+m a t a	m a t t h a	m a t t a	m a t a	m a t t a	m a t t h a	m a t a	m a t t a
+f e s t u s	f e s t u s	f e s t u s	f e s t u s	f e s t u s	e e s t u s	f e s t u s	f e s t u s
+b a t i m e a s	b a r t i m a e u s	b a t i m e a s	b a t i m e a s	b a t i m e a s	b a r t i m e s	b a t i m e a s	b a t i m e a s
+g e t s e m a n i	g e t h - s h e m a n i	g e t s e m a n i	g e t s e m a n i	g e t s e m a n i	g e t h	g e t s e m a n i	g e t s e m a n i
+d i o t r e p e	d i o t r e p h u s	d i o t r e p h a	d i o t r e p h a	d i o t r e p h a	d i o t r	d i o t r e p h a	d i o t r e p h a
+e m e y a s	e m e e u s	e m e i a s	e m h a s	e m e i a s	e m e d	e m e i a s	e m e i a s
+s e y o b		s h e o b	s h o b	s h e o b	s h e o b	s h e o b	s h e o b
+p e r e s	p e r e s	p e r e s	p e r e s	p e r e s	p e r e z	p e r e s	p e r e s
+t a i b i r i a s	t i b e r i a s	t i b e r i a s	t i b e r i a s	t i b e r i a s	t i b e r i a s	t i b e r i a s	t i b e r i a s
+b e t p a g i	b e t h p a g i	b e t p a g i	b e t p a g i	b e t p a g i	b e t h i g	b e t p a g i	b e t p a g i
+m e s o p o t e m i a	m e s o p o t e m i a	m e s o p o t e m i a	m e s o p o i a n a	m e s o p o t e m i a	m e s o n	m e s o p o t e m i a	m e s o p o t e m i a
+b a l e		b a r i	b a l e	b a r i	b a l l a	b a l e	b a r i
+e p e s a s	e p h e s o s	e p h e s a s	e p h e s a s	e p h e s a s	e p h e s	e p h e s a s	e p h e s a s
+j e r i k o	j e r i c o r	j e r i c o	j e r i c o	j e r i c o	j e r i c h	j e r i c o	j e r i c o
+p o n t u s	p o n t u s	p o n t u s	p o n t u s	p o n t u s	p o n t u s	p o n t u s	p o n t u s
+k l o p a s	c l o p a s	c l o p a s	c l o p a s	c l o p a s	c l o p a s	c l o p a s	c l o p a s
+n a g a i	n a g i	n a g a i	n a g a i	n a g a i	n a g a l	n a g a i	n a g a i
+e l i s a b e t	e l i s s a b e t h	e l i s a b b e t	e l i s a b e t	e l i s a b b e t	e l i s a	e l i s a b e t	e l i s a b b e t
+p r o k o r a s	p h r o c o r a s	p h r o c o r a s	p h r o c o r a s	p h r o c o r a s	p r o r o a s	p h r o c o r a s	p h r o c o r a s
+j o a n a	j o a n n a	j o a n a	j o a n a	j o a n a	j o h a n	j o a n a	j o a n a
+g e r a s a - NG g a		g e r a s e n e s	g e r a s e n e s	g e r a s e n e s	g e r a s e n e s	g e r a s e n e s	g e r a s e n e s
+m o s e s	m o s e s	m o s e s	m o s e s	m o s e s	m o s e s	m o s e s	m o s e s
+k i d r o n - NG g a		c i d r o n n e s	c i d r o n s a	c i d r o n n e s	c i d a o n	c i d r o n n e s	c i d r o n n e s
+a t o c		a t i d y	a t i d y	a t i d y	a t t a n	a t i d y	a t i d y
+p i l a d e l p i a	p h i l a d e l p h i a	p h i l a d e l p p h i a	p h i l a d e l p p h i a	p h i l a d e l p p h i a	p i l i d i a	p h i l a d e l p p h i a	p h i l a d e l p p h i a

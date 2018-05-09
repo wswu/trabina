@@ -1,0 +1,59 @@
+unidecode	sequitur	moses	moses-with-pre	moses-with-post	opennmt2	consensus	weighted
+i j e  t e		h e r g e t h a	i j a t e	h e r g e t h a	c e r t h i a h	h e r g e t h a	h e r g e t h a
+s e  n		s h e m	s y n	s h e m	s h o n	s h e m	s h e m
+l o d i s i a		l a o d i c i a	l a o d i c i a	l a o d i c i a	l e d i a	l a o d i c i a	l a o d i c i a
+m i a	m e a	m e a	m e a	m e a	m a r	m e a	m e a
+a f i a	e p h i a	a p h e a	a v i a	a p h e a	a p h i a	a p h e a	a p h e a
+k w l i i		g r e e	g r e e	g r e e	g e l e l i a	g r e e	g r e e
+k w a w l i n i o		q u y r e n i u s	q u y r e n u e l	q u y r e n i u s	g e r e n i a h	q u y r e n i u s	q u y r e n i u s
+j e  l e k o		j e s l i c o d e s	j i l i c u s	j e s l i c o d e s	j e l i a h	j e s l i c o d e s	j e s l i c o d e s
+t e		t e	t h e u s	t e	t h o n	t e	t e
+h o  m i s i		h u m e s h e	h o m e s h u n	h u m e s h e	p h o r e	h u m e s h e	h u m e s h e
+t u		t u s	t u s	t u s	s h o n	t u s	t u s
+k l o d i a		c l a u d i a	c l a u d e a	c l a u d i a	g e d i a	c l a u d i a	c l a u d i a
+e l e w l i k e n		e l i r i c e n	e l e r e c h i m	e l i r i c e n	a l i u n	e l i r i c e n	e l i r i c e n
+a p o l e o n		a p o l i s o n	a p o l i o n	a p o l i s o n	a p o r	a p o l i s o n	a p o l i s o n
+p e  n ' a		p e n ' a	p e n ' a	p e n ' a	p h o n i a	p e n ' a	p e n ' a
+i m a n y u e		e m a n y u e l	e m a n y u e l	e m a n y u e l	m a n e n	e m a n y u e l	e m a n y u e l
+n i a p o l a		n i a p o l a	n i a p o l a s	n i a p o l a	n e r i a	n i a p o l a	n i a p o l a
+i w l o d i a		h e r o d i a	h e r o d i a s	h e r o d i a	r e d a	h e r o d i a	h e r o d i a
+k a p a n i a		c a p a n i a	c a p h y n i a	c a p a n i a	c a n n i a	c a p a n i a	c a p a n i a
+f l e p a		p h r y p h a	p h r y p a	p h r y p h a	p e r e p i a	p h r y p h a	p h r y p h a
+k e a f e		c i a p h e s	g a a v i	c i a p h e s	c a p h i a	c i a p h e s	c i a p h e s
+j u u a		j u u a	j u u a	j u u a	j u s	j u u a	j u u a
+i t i o p i a		e t e o p i a	c a n d a c e	e t e o p i a	e t e t h i a	e t e o p i a	e t e o p i a
+e l e m a s i o		e l i m a z i o d e s	a l e m y s i u s	e l i m a z i o d e s	a l i a s	e l i m a z i o d e s	e l i m a z i o d e s
+a b a l i n i		a b y l e n i x	a b y l e n e	a b y l e n i x	a b r a n	a b y l e n i x	a b y l e n i x
+e b o o		a b o o	a b u s	a b o o	a b o s	a b o o	a b o o
+f e l o l o k a		p h i l o l o c h a r i a h	p h i l o l o g e r	p h i l o l o c h a r i a h	p h e l i a	p h i l o l o c h a r i a h	p h i l o l o c h a r i a h
+t i m a		t i m a s	t i m a	t i m a s	t a t h e s	t i m a	t i m a s
+a m o n		a m o n	a m o n	a m o n	a n	a m o n	a m o n
+m a t a t i a a		m a t t a t i a h	m a t t a t h i a h	m a t t a t i a h	m a t h i a	m a t t a t i a h	m a t t a t i a h
+s e l o		s i l u s	z r o n	s i l u s	s a l i a	s i l u s	s i l u s
+a f i a s e e		a p h e a z a	a v i a s e t h	a p h e a z a	p a r e s	a p h e a z a	a p h e a z a
+m a s e d o n i a		m a z a d o n i a	m a k e d o n i a	m a z a d o n i a	m a s a n	m a z a d o n i a	m a z a d o n i a
+m a t e		m a t e s	m a t h e u s	m a t e s	m a t h	m a t e s	m a t e s
+k a d i		g a d d i	c h a l d e	g a d d i	c h a d i a	g a d d i	g a d d i
+b a t e m o		b a t h i m u s	b a r t e m o n	b a t h i m u s	b a t h e s	b a t h i m u s	b a t h i m u s
+k o k o  t a		c u g u s t h a	g o g o t h a	c u g u s t h a	c o c h i a h	c u g u s t h a	c u g u s t h a
+d l u s e l a		d l u c i l a	d e r u s a l a	d l u c i l a	d e l i a	d l u c i l a	d l u c i l a
+i n o  s e		e n o c e	e n o s e s	e n o c e	e n e n	e n o c e	e n o c e
+s l e k u s i		s l i c u s	s l i c u s	s l i c u s	s e l i u s	s l i c u s	s l i c u s
+f e l e p a		p h i l i p a s	p h i l i p o s	p h i l i p a s	p e r i p a p a	p h i l i p a s	p h i l i p a s
+t l o a s i		t r o a z i	t r o a z	t r o a z i	t a r a s	t r o a z i	t r o a z i
+b e f e j i		b e v i j e w	b e v y g i	b e v i j e w	b e t h e	b e v i j e w	b e v i j e w
+m e w l e		m a r i a m	m a r y	m a r i a m	m e r e	m a r i a m	m a r i a m
+f e t o		p e t u s	p h a t u s	p e t u s	p e r t h o s	p e t u s	p e t u s
+i w l a s e t o		h e r a s t u s	e r a s t u s	h e r a s t u s	e l e s t u s	h e r a s t u s	h e r a s t u s
+j u s u		j u s h u	j e s h u	j u s h u	j e u	j u s h u	j u s h u
+k w a t o		c r i t u s	q u a t u s	c r i t u s	c a r t h u s	c r i t u s	c r i t u s
+s e n a d o		s i n a d o n	s y n a d o	s i n a d o n	s a n d e n	s i n a d o n	s i n a d o n
+n a t a n i o		n a t h a n u e l	n a t h a n u e l	n a t h a n u e l	n a n e n i a	n a t h a n u e l	n a t h a n u e l
+i l a d u		e l i d u s	e l i d u s	e l i d u s	r e d i a	e l i d u s	e l i d u s
+k e k a		c h i c h a r i a h	c c a	c h i c h a r i a h	g e c h i a h	c h i c h a r i a h	c h i c h a r i a h
+j o n a		j o n a s	j o n a s	j o n a s	j o n	j o n a s	j o n a s
+j a l a l i i		j a l i l e e	g a l i l e e	j a l i l e e	j a l i a	j a l i l e e	j a l i l e e
+n a s o  n		n a z u n	n a z o n	n a z u n	n a s h o n	n a z u n	n a z u n
+k o s i		c o d e s	k i o s	c o d e s	g o s	c o d e s	c o d e s
+a k e a a		a c h i a h	a r k a h	a c h i a h	a c h a a	a c h i a h	a c h i a h
+f l e k o  n		p h r y g u n	p h r y g o n	p h r y g u n	p e r i u m	p h r y g u n	p h r y g u n

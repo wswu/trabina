@@ -1,0 +1,57 @@
+unidecode	sequitur	moses	moses-with-pre	moses-with-post	opennmt2	consensus	weighted
+hwang je e ge		황 제 s c h e	hwang je s c h e	hwang je s c h e	s e l o n	hwang je s c h e	hwang je s c h e
+me di a		m e d i a	m e d i a	m e d i a	m a t o l o n	m e d i a	m e d i a
+yu da		j u d a	j u d a	j u d a	j u d a	j u d a	j u d a
+ba bo e		b a r p u s	b a r p u s	b a r p u s	p a r p a s	b a r p u s	b a r p u s
+bil rib e ge		p h i l i s c h e	p h i l i s c h e	p h i l i s c h e	p h i l a r i a	p h i l i s c h e	p h i l i s c h e
+seu rub ba bel eun		s 룹 p a p e l o d	s rub p a p e l r	s rub p a p e l o d	s e p h a r e s	seu rub ba bel eun	
+hwang je e ge		황 제 s c h e	hwang je s c h e	hwang je s c h e	s e l o n	hwang je s c h e	hwang je s c h e
+ye re mi ya na		j e l e m i j a n a	j e l e m i j a n a	j e l e m i j a n a	j e l i a	j e l e m i j a n a	j e l e m i j a n a
+sal rem		s s a l 렘	i s h l e m	s s a l rem	j e h u s	sal rem	
+sil ra wa		s i l a s	s i l a s	s i l a s	s a r a m	s i l a s	s i l a s
+dong yeog ja deul gwa		동 역 b a r u 들 과	dong yeog h o deul gwa	dong yeog b a r u deul gwa	c i l o n i a	dong yeog ja deul gwa	
+al reg san deo ga		알 렉 a n u c	al reg s a n u c	al reg a n u c	p u l u s	al reg san deo ga	
+beul re gon		블 r e 곤	beul e w gon	beul r e gon	p h i l o n	beul re gon	
+na dan yi		n a d a n h	n a d a n h	n a d a n h	n a n o n	n a d a n h	n a d a n h
+is sa gal		잇 z a g a	is z e g a	is z a g a	s a l o n	is sa gal	
+o ne si mo reul		o n e s i m o s	o n e s i m o s	o n e s i m o s	s o c o n	o n e s i m o s	o n e s i m o s
+ga beu ri el i da		c a b r e w e l i h t h a h	c a b r e w e l i d a	c a b r e w e l i h t h a h	e b a l i s	c a b r e w e l i h t h a h	c a b r e w e l i h t h a h
+ceon hab ni da		c e n c h r e t h	c e n c h r e a	c e n c h r e t h	p a n n e s	c e n c h r e t h	c e n c h r e t h
+beu ri seu gil ra wa		b r e w s c i l a s	b r e w s c i l l a s	b r e w s c i l a s	b e r i s h e u s	b r e w s c i l a s	b r e w s c i l a s
+ga na an		c a n a a n	c a n a a n	c a n a a n	c a r a n i a	c a n a a n	c a n a a n
+dong san eu ro		동 a n a o n i a	dong s a n a o n i a	dong a n a o n i a	p a l u s	dong san eu ro	
+bel rig seu		p e l 릭 s	p e l rig s	p e l rig s	b e r i s	p e l rig s	p e l rig s
+e be so		s f e r s u	s f e r s u	s f e r s u	r e c h e u s	s f e r s u	s f e r s u
+a bi hus eul		a b y 훗 h a	a b y hus r a b	a b y hus h a	a r a b	a bi hus eul	
+a bi a dal		a b y a d a l	a b y a d a l	a b y a d a l	a r a b	a b y a d a l	a b y a d a l
+caj a bo go		찾 a r p u g u s	caj a r p u g u s	caj a r p u g u s	a d o n i a	caj a r p u g u s	caj a r p u g u s
+di mo de neun		t i m o t h e u s	t i m o t h e u s	t i m o t h e u s	t i m o t u s	t i m o t h e u s	t i m o t h e u s
+a na ni a ga		a n a n i a c h	a n a n i a c h	a n a n i a c h	a n a n	a n a n i a c h	a n a n i a c h
+geu ri seu do		c h r i s t u s	c h r i s t u s	c h r i s t u s	c o r i c u s	c h r i s t u s	c h r i s t u s
+seu rub ba bel eul		s 룹 p a p e l a	s rub p a p e l r a b	s rub p a p e l a	s t e p h a s	seu rub ba bel eul	
+yo si ya reul		j o s i a s	j o s i a s	j o s i a s	j o s i a	j o s i a s	j o s i a s
+mal go yi		말 c h u s	mal g u s h	mal c h u s	b e r e s	mal go yi	
+mi di an		m i d i a n	m i d i a n	m i d i a n	l i m e t i u s	m i d i a n	m i d i a n
+gal ri o ga		g a i u c h	g a i u c h	g a i u c h	g a l i s	g a i u c h	g a i u c h
+do um eu ro		t u 움 a o n i a	t u um a o n i a	t u um a o n i a	p h a t h e s	t u um a o n i a	t u um a o n i a
+ha ran e seo		h a r r a n	h a n s t o r	h a r r a n	s o l o n	h a r r a n	h a r r a n
+el ri		e l i	e l i	e l i	e l i j a h	e l i	e l i
+e beu ra im i ra neun		s p h r a 임 i l a s	s p h r a im i r a h	s p h r a im i l a s	e r i s h a	e beu ra im i ra neun	
+deu da ga		t r d a s	t r d a s	t r d a s	b a t h a s	t r d a s	t r d a s
+bon do		p o n t u s	p o n t u s	p o n t u s	p e r t h u s	p o n t u s	p o n t u s
+a deul i ran		a 들 i n	a deul i n	a deul i n	a r i a b	a deul i n	a deul i n
+pyeon eu ro		편 a o n i a	pyeon a o n i a	pyeon a o n i a	b a r u s	pyeon a o n i a	pyeon a o n i a
+gal ril ri		g a l i l e e	g a l i l e e	g a l i l e e	g a l i l a	g a l i l e e	g a l i l e e
+yu ni ge e ge		j u n i c h e s c h e	j u n i k e i s c h e	j u n i c h e s c h e	c e r m u s	j u n i c h e s c h e	j u n i c h e s c h e
+yo el eun		j o e l o d	j o e l r	j o e l o d	j e h o m	j o e l o d	j o e l o d
+ru po wa		l y p o s	l y o p o s	l y p o s	l y r i c u s	l y p o s	l y p o s
+keu re te seom yi		크 r e 테 섬 h	keu e w te c a h	keu r e te seom h	p h i l o t i a	keu re te seom yi	
+o bes eun		u b e t h	u b e t h	u b e t h	t e r o s	u b e t h	u b e t h
+e ba beu ro di do reul		e p a p h r o d i t u s	e p a p h r o d i t u s	e p a p h r o d i t u s	p h r o t h o s	e p a p h r o d i t u s	e p a p h r o d i t u s
+sal rem		s s a l 렘	i s h l e m	s s a l rem	j e h u s	sal rem	
+yo se yi		j o s h e h	j o s h e h	j o s h e h	j o s a	j o s h e h	j o s h e h
+ge ne sa res		c h e n e z a r e t h	c h e n e z a r e t h	c h e n e z a r e t h	c a n n i a	c h e n e z a r e t h	c h e n e z a r e t h
+ib gyo han		j e p 교 n a	j e p gyo n a	j e p gyo n a	j e h o v a i	j e p gyo n a	j e p gyo n a
+hal meo ni		할 y r n i	h meo n i	hal y r n i	s a n o n	hal meo ni	
+bo cung hae		r p u 충 해	r p u cung hae	r p u cung hae	j o r c h i s	r p u cung hae	r p u cung hae
+cu jang yi		p 장 h	p jang h	p jang h	s o l i a	p jang h	p jang h

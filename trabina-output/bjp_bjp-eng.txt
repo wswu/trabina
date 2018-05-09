@@ -1,0 +1,13 @@
+unidecode	sequitur	moses	moses-with-pre	moses-with-post	opennmt2	consensus	weighted
+j o n	j o n	j o n	j o n	j o n	j o n a n	j o n	j o n
+m a t a	m a t h a	m a t a	m a t h a	m a t a	m a r a r a s	m a t a	m a t a
+g a l i l i	g a l i l e e	g a l i l	g a l i l i	g a l i l	g a t h a l a l	g a l i l i	g a l i l
+d e w i t	d e s s e t	d e m b l i t	d e m b l i t h	d e m b l i t	j e r e r u s	d e m b l i t	d e m b l i t
+k e p	c e p h	c e p	c e p h	c e p	c a p e r	c e p h	c e p h
+o s a n a	o s a n a	o s a n a	o s a n a	o s a n a	j o n a n	o s a n a	o s a n a
+s o l o m o n	j o l o m o n	s o l o m o n	s o l o m o n	s o l o m o n	j o o n	s o l o m o n	s o l o m o n
+t a i b e r i a s	t i b e r i u s	t i b e r i a s	t h a i b e r i a s	t i b e r i a s	b i b r e r u s	t i b e r i a s	t i b e r i a s
+t o m a s	a h a m u s	t o m a s	t h o m a s	t o m a s	b i b r a s	t o m a s	t o m a s
+a b a r a m	a b r a h a m	a b r a a m	a b a r a m	a b r a a m	c a b a r a m a m a s a m a m a	a b a r a m	a b r a a m
+s a m a r i a	s h o m e r o n	s a m a r i a	s a m a r i a	s a m a r i a	s a r a r e m	s a m a r i a	s a m a r i a
+i u d a i a	j u d e a	i u d a i a	i u d a i a	i u d a i a	j i d u d	i u d a i a	i u d a i a

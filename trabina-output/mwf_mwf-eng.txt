@@ -1,0 +1,6 @@
+unidecode	sequitur	moses	moses-with-pre	moses-with-post	opennmt2	consensus	weighted
+y i l e	i l e	l i l e	y i l e	l i l e	s a m a s	y i l e	l i l e
+t i d u k	t i d	t i d u k	t i d u k	t i d u k	s a t a n	t i d u k	t i d u k
+n u m a m n a b a t h	j i h u d o y e e	s h u m o a m o n a b a t h	h u m a m n a b a t h	s h u m o a m o n a b a t h	j a t e d	s h u m o a m o n a b a t h	s h u m o a m o n a b a t h
+a b r a h a m - k a	a y r a h a	a b r a h a m o e a	a b r a h a m e a	a b r a h a m o e a	j e m a s	a b r a h a m o e a	a b r a h a m o e a
+m o s e s	m o s e s	m o u s e u s	m o s e s	m o u s e u s	g e t e s d e n e d	m o s e s	m o s e s

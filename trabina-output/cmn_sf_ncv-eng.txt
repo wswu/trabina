@@ -1,0 +1,99 @@
+unidecode	sequitur	moses	moses-with-pre	moses-with-post	opennmt2	consensus	weighted
+Ya  Bo  La  Han  Cong  Na  Li  Qian  Dao  Nan  Di		a b e t e r a 罕 l 那 里 迁 a 南 地	a b r a Han t l a Qian l Nan d	a b e t e r a Han  l Na  Li  Qian  a Nan  Di	a z i p h	Ya  Bo  La  Han  Cong  Na  Li  Qian  Dao  Nan  Di	
+Huan  Huo  Liao  Ba  Bai		e n o s	e n o s	e n o s	a n a n	e n o s	e n o s
+Shi  Cong  Bie  Shi  Ba  Lai  De  .  ( Ben  Jie  Zai  << Ma  Suo  La  Chao  Ben  >>  Wei  1 2 : 2 )		a l 别 a p a a e （ 本 节 a 《 m a 索 l a 抄 本 》 为 1 2 : 2 h	s t Bie s a r e n ( b o n c Zai << m Suo r a Chao b o n >> s 1 2 j e h o v a h 2 )	a l Bie  a p a a e ( Ben  Jie  a << m a Suo  l a Chao  Ben  >>  Wei  1 2 : 2 h	m e l a t h	Shi  Cong  Bie  Shi  Ba  Lai  De  .  ( Ben  Jie  Zai  << Ma  Suo  La  Chao  Ben  >>  Wei  1 2 : 2 )	
+Jiao  Gei  You  Da  Ren  De  Di  Ren		交 h j u d e a 敌 e	a Gei u d i d r i	Jiao  h j u d e a Di  e	j a m a n	Jiao  Gei  You  Da  Ren  De  Di  Ren	
+Shen  De  Yu  Min		神 a 余 t	a r e Min	Shen  a Yu  t	s h a m a m	Shen  De  Yu  Min	
+Yue  Se  Hui  Da		j o s e p h	j o s e p h	j o s e p h	j a b a b	j o s e p h	j o s e p h
+Yai  Er  Ren  Yi  La  Ye  Zuo  Da  Wei  De  Ji  Si  .		睚 r e e l a e 作 t h a v i d a 祭 s e	Yai r i e r a m Zuo a s r i e h	Yai  r e e l a e Zuo  t h a v i d a Ji  s e	e l i e l	Yai  Er  Ren  Yi  La  Ye  Zuo  Da  Wei  De  Ji  Si  .	
+Rang  Ta  Men  Na  Qu  Ba  .  "		l a m n a e 吧 h e	t a Men n a b a h	l a m n a e Ba  h e	j a m a n	Rang  Ta  Men  Na  Qu  Ba  .  "	
+Wo  Ceng  Jing  Lue  Lue  Xie  Xin  Gei  Ni  Na  Li  De  Jiao  Hui		e 曾 经 略 略 写 h i a 那 里 a l e	p Ceng u s Lue Lue z Xin Gei e l a i a h	e Ceng  Jing  Lue  Lue  Xie  h i a Na  Li  a l e	z i p h	Wo  Ceng  Jing  Lue  Lue  Xie  Xin  Gei  Ni  Na  Li  De  Jiao  Hui	
+Jiu  Zai  Gan  Lan  Shan  Na  Li		p a 橄 榄 h 那 里	a t t a Zai i a m e l a	p a Gan  Lan  h Na  Li	a z i p h	Jiu  Zai  Gan  Lan  Shan  Na  Li	
+Dan  Zai  Qi  Yue  De  Shi  Hou		n a 七 月 a 时 r	d a n Zai k j o i s b r o n	n a Qi  Yue  a Shi  r	e l i a h	Dan  Zai  Qi  Yue  De  Shi  Hou	
+Ta  Jiu  Pie  Xia		a p 撇 m	m a t t a Pie a h a t h	a p Pie  m	j i s h	Ta  Jiu  Pie  Xia	
+Gao  Su  Ta  Shuo		告 诉 k i a h	Gao Su a h	Gao  Su  k i a h	s a m a n	Gao  Su  Ta  Shuo	
+Huan  You  Ya  Nai  He  Sha  Fa  .		还 a a n 和 s h a p h a e	n e a e o n s h a p h	Huan  a a n He  s h a p h a e	b i s h a n	Huan  You  Ya  Nai  He  Sha  Fa  .	
+Ben  Diu  . Bi  La  Duo  Zuo  You  Tai  Zong  Du		本 丢 ． p l a t h o 作 j u 太 a	b o n z i p i l a d Zuo u Tai Zong t	Ben  Diu  . p l a t h o Zuo  j u Tai  a	e l i p h	Ben  Diu  . Bi  La  Duo  Zuo  You  Tai  Zong  Du	
+Shi  Shi  Jie		a 世 界	s s c	a Shi  Jie	e l i a h	Shi  Shi  Jie	
+Shu  Ye  Se  De		j e 色 a	j e s a h	j e Se  a	j e l e a h	Shu  Ye  Se  De	
+Ta		a	a	a	j i c h	a	a
+Chu  Liao  Ji  Li  Si  Bu  He  Gai  You  Yi  Wai		除 r r a l i s 布 和 c j u e 外	Chu e i l e j e p o n g g i Wai	Chu  r r a l i s Bu  He  c j u e Wai	e l i	Chu  Liao  Ji  Li  Si  Bu  He  Gai  You  Yi  Wai	
+Ta  De  Guo  Du  Bi  Bei  Gao  Ju  .		m a r 国 度 必 n g 举 e	m i Guo t p a Gao Ju i	m a r Guo  Du  Bi  n g Ju  e	z i l a h	Ta  De  Guo  Du  Bi  Bei  Gao  Ju  .	
+Shen  Ye  Ba  Shi  Jian  Ren  De		神 e e s h e 剑 e a	a m a s m i a h	Shen  e e s h e Jian  e a	m e l a t h	Shen  Ye  Ba  Shi  Jian  Ren  De	
+Shen  Chai  Qian		神 差 遣	a Chai Qian	Shen  Chai  Qian	e l i a h	Shen  Chai  Qian	Shen  Chai  Qian
+Shi  Sa  Lu  Ling  Zhan  Che		s h e s 率 领 战 车	s a l y Ling Zhan Che	s h e s Lu  Ling  Zhan  Che	j a m a n	Shi  Sa  Lu  Ling  Zhan  Che	
+Ta  Zai  Zhu  Li  Duo  Duo  Lao  Ku  .		她 a 里 d d 劳 苦 e	m Zai a d o n a i r o d Lao Ku i	Ta  a Li  d d Lao  Ku  e	t h i p h	Ta  Zai  Zhu  Li  Duo  Duo  Lao  Ku  .	
+Ma  Da  Shuo		m a d a	m a h	m a d a	s h i m a	m a d a	m a d a
+Yao  Jiao  Ta  Yue  Han  .  "		s 叫 k o 翰 h e	Yao a m j o Han a h	s Jiao  k o Han  h e	z i p h	Yao  Jiao  Ta  Yue  Han  .  "	
+Wei  Ying  Xiong  .		a 英 雄 e	s Ying Xiong i	a Ying  Xiong  e	z i p h	Wei  Ying  Xiong  .	
+Wang  Ti  Ba  Ta		王 u 拔 k	n u t a m	Wang  u Ba  k	b a r a t h	Wang  Ti  Ba  Ta	
+Guo  Liao  Liang  Nian		过 r 两 n	Guo e Liang n	Guo  r Liang  n	d i p h	Guo  Liao  Liang  Nian	
+Zhu  Zai  Bo  Da  Ni		住 a b e t t h a n	a d o n a i Zai b a n	Zhu  a b e t t h a n	e l i a h	Zhu  Zai  Bo  Da  Ni	
+Zi  Xi  Cha  Wen  Ta  Men		仔 细 查 a k i m	h e Cha h a Men	Zi  Xi  Cha  a k i m	z i p h	Zi  Xi  Cha  Wen  Ta  Men	
+Huan  Huan  Xi  Xi  Ba		欢 欢 喜 喜 e	n n h e z e b	Huan  Huan  Xi  Xi  e	e l i a h	Huan  Huan  Xi  Xi  Ba	
+Yu  Shi  Xuan  Chu  Si  Ti  Fan		n i c a n o r	n i c a n o r	n i c a n o r	m e l a t h	n i c a n o r	n i c a n o r
+Guo  Ya  Nen  Gu		过 a m 谷	Guo a n o Gu	Guo  a m Gu	s a s	Guo  Ya  Nen  Gu	
+Xi  Lan  Cong  Tui  Luo  Chu  Lai		h a m l e o l 出 a	h a m t Tui l l	h a m l e o l Chu  a	e l i p h	Xi  Lan  Cong  Tui  Luo  Chu  Lai	
+Yi  Xia  Shi  Dui  Ni  Ni  Wei  De  Xuan  Pan		e m a 对 n n 微 a 宣 判	o a h a t h s i n e s i Xuan o	e m a Dui  n n Wei  a Xuan  Pan	e l i a h	Yi  Xia  Shi  Dui  Ni  Ni  Wei  De  Xuan  Pan	
+Shu  Ya  Le  De		属 a e a	j a l a h	Shu  a e a	e l i a h	Shu  Ya  Le  De	
+Zai  Chu  Ai  Ji  Yi  Hou  Di  Er  Ge  Yue  Shi  Wu  Ri		a 出 埃 及 e 后 e 二 a h 月 a 五 日	Zai Chu Ai l e b r o n d r o j o s Wu Ri	a Chu  Ai  Ji  e Hou  e Er  a h Yue  a Wu  Ri	e l i p h	Zai  Chu  Ai  Ji  Yi  Hou  Di  Er  Ge  Yue  Shi  Wu  Ri	
+Bo  Li  Heng  Ren  He  Ni  Tuo  Fa  Ren		b e t l i 恒 e 和 n 陀 p h a e	b a r Heng i o n e Tuo p i	b e t l i Heng  e He  n Tuo  p h a e	p h i l e m	Bo  Li  Heng  Ren  He  Ni  Tuo  Fa  Ren	
+Shuo		a	a s	a	j a m a n	a	a
+Ta  Men  Qian  Lai  Wen  Ye  Su		k o h a a e 稣	t i r z a h h e Su	k o h a a e Su	j a m a n	Ta  Men  Qian  Lai  Wen  Ye  Su	
+Bu  Fen  .		部 分 e	j e p Fen i	Bu  Fen  e	z i p h	Bu  Fen  .	
+Ya  Shi  Hu  Shi  Ti  Ge  Ya  De  Fu  Qin  .		a s h h u a u i a a 父 亲 e	a s Hu s u t c a i r Qin i	a s h h u a u i a a Fu  Qin  e	a r a m	Ya  Shi  Hu  Shi  Ti  Ge  Ya  De  Fu  Qin  .	
+Wo  Bing  Mei  You  Chai  Qian  Ta		e 并 没 e 差 遣 k	p Bing Mei u Chai Qian a	e Bing  Mei  e Chai  Qian  k	e l i s h	Wo  Bing  Mei  You  Chai  Qian  Ta	
+Ye  He  Hua  Wen  Gai  Yin		c a i n	c a i n	c a i n	s h a m	c a i n	c a i n
+" A  Ba  ,  Fu  A		a o 爸 、 父 o	a n a c h r i s t r o	a o Ba  ,  Fu  o	a z i a h	" A  Ba  ,  Fu  A	
+He  Ren  Hui  Da  Ya  Bo  La  Han		赫 e h 答 a b e t e r a 罕	o n i p h a b r a Han	He  e h Da  a b e t e r a Han	a s h	He  Ren  Hui  Da  Ya  Bo  La  Han	
+Ci  Hu  Kou  Deng  Ji		次 h u 口 登 记	Ci Hu t h Deng i	Ci  h u Kou  Deng  Ji	e l i s	Ci  Hu  Kou  Deng  Ji	
+Yue  A  Shi  De  Er  Zi  Ji  Dian  Shou  Shu  Man  Zu  Er  Si		j o o s h h r a 甸 寿 数 满 足 而 h	j o o s e h i Dian r Shu Man o r e	j o o s h h r a Dian  Shou  Shu  Man  Zu  Er  h	a z i z	Yue  A  Shi  De  Er  Zi  Ji  Dian  Shou  Shu  Man  Zu  Er  Si	
+Ta  Wen  An  Nen  Shuo		k a 暗 m a	a h a n o n	k a An  m a	a z i p h	Ta  Wen  An  Nen  Shuo	
+Ya  Ge  Bo  De  Er  Zi  Ba  Le  . Ha  Nan  Jie  Ti  Ta  Zuo  Wang  .		a 革 b o h p e l e k ． h 南 接 替 k 作 王 e	a b e h b e n h a Nan c u t a Zuo n i	a Ge  b o h p e l e k . h Nan  Jie  Ti  k Zuo  Wang  e	j i b a h	Ya  Ge  Bo  De  Er  Zi  Ba  Le  . Ha  Nan  Jie  Ti  Ta  Zuo  Wang  .	
+Zhi  Dao  Jia  Sa		g a z a h	g a z a h	g a z a h	z e l a h	g a z a h	g a z a h
+Hao  Xiang  Na  Liang  Ge  Ren		好 像 那 两 a h e	n i j a h h a Liang a i	Hao  Xiang  Na  Liang  a h e	z i p h a n	Hao  Xiang  Na  Liang  Ge  Ren	
+" Wo  Dao  Liao  Na  Bian  Yi  Hou		a e l e 那 边 e 后	e p h e b r e w a b e e b r o n	a e l e Na  Bian  e Hou	a t h	" Wo  Dao  Liao  Na  Bian  Yi  Hou	
+Ge  Shao  Nian  Ren		a h i 少 n e	c Shao n i	a h i Shao  n e	p h i l i s	Ge  Shao  Nian  Ren	
+Gong  Liu  Bai  Er  Shi		共 六 百 二 a	s h u Bai r s	Gong  Liu  Bai  Er  a	e l i s	Gong  Liu  Bai  Er  Shi	
+Shuo  Liao  Xu  Duo  Hua  Quan  Mian  Di  Xiong		a r 许 d 话 劝 勉 弟 兄	b e Xu o l p Mian d Xiong	a r Xu  d Hua  Quan  Mian  Di  Xiong	e l a t h	Shuo  Liao  Xu  Duo  Hua  Quan  Mian  Di  Xiong	
+Wei  Liu  Ben  Ren		为 n o c e	s u b o n i	Wei  n o c e	s h i p h	Wei  Liu  Ben  Ren	
+Ya  Ba  Shi  Ya  Na  Ren  De  Zu  Xian  .  Ji  Lie  . Ya  Ba  Jiu  Shi  Xi  Bo  Lun  .		a p a a 衲 e a 祖 先 e r a 列 ． a p p a h b 仑 e	a b a n i a o a n i l e e l a b a t t a s h b o r a h	a p a a Na  e a Zu  Xian  e r a Lie  . a p p a h b Lun  e	a s h	Ya  Ba  Shi  Ya  Na  Ren  De  Zu  Xian  .  Ji  Lie  . Ya  Ba  Jiu  Shi  Xi  Bo  Lun  .	
+Fei  Li  Shuo		腓 力 a	h a	Fei  Li  a	j a b a n	Fei  Li  Shuo	
+Zhe  Shi  Ye  Su  Suo  Xing  De  Di		这 a e 稣 o r 行 a e	h s e Su Suo Xing d r	Zhe  a e Su  o r Xing  a e	j a m a n	Zhe  Shi  Ye  Su  Suo  Xing  De  Di	
+Ba  Lan  Dui		p a m 对	b a m i	p a m Dui	j a b a b	Ba  Lan  Dui	
+Yu  Shi  Bo  Sha  Sa  Xia  Ling		e a b s h a s a m 令	e t h b o s h a z a a h a t h Ling	e a b s h a s a m Ling	e l i a h	Yu  Shi  Bo  Sha  Sa  Xia  Ling	
+Cheng  Li  De  Ren  Dui  Yue  A  Shi  Shuo		n 里 a e 对 o o s h a	Cheng r e a i j o o s i a	n Li  a e Dui  o o s h a	j a m a n	Cheng  Li  De  Ren  Dui  Yue  A  Shi  Shuo	
+Bi  Li  Ya  De  Zi  Sun		b l i a a h	b a r i a h	b l i a a h	e l i a h	b l i a a h	b l i a a h
+Shu  Xi  Le  Jia  Zu  De		属 h e k i i a	Shu z e c h o r	Shu  h e k i i a	e l e l	Shu  Xi  Le  Jia  Zu  De	
+Ming  Jiao  Ya  Ju  La  .  Yin  Wei  Ge  Lao  Diu  Xia  Ling  Suo  You  De  You  Tai  Ren  Du  Yao  Chi  Kai  Luo  Ma		l a h l a e 因 为 革 老 丢 m 令 o r a a j u 太 e 都 s 离 t o l a	a a Ju r a h a s o Lao z a h a t h Ling Suo e r u Tai i t Yao Chi s s o s l i m	l a h l a e Yin  Wei  Ge  Lao  Diu  m Ling  o r a a j u Tai  e Du  s Chi  t o l a	a s h i p h	Ming  Jiao  Ya  Ju  La  .  Yin  Wei  Ge  Lao  Diu  Xia  Ling  Suo  You  De  You  Tai  Ren  Du  Yao  Chi  Kai  Luo  Ma	
+Ta  Chi  Kai  Na  Li		t i t i u s	t i t i u s	t i t i u s	a t h	t i t i u s	t i t i u s
+Jiu  Cong  Luo  Ma  Chu  Lai		p l o l m a 出 a	a t t a t o l a l	p l o l m a Chu  a	m a r a t h	Jiu  Cong  Luo  Ma  Chu  Lai	
+Tuo  Ya  Shi  Su  Fu  De  Er  Zi		陀 a a 苏 p h	Tuo a s Su r e h	Tuo  a a Su  p h	e l i a h	Tuo  Ya  Shi  Su  Fu  De  Er  Zi	
+Bai  Ji  La  He  Ya  Ju  La  Ting  Liao		百 r a l a a h l a 听 r	Bai i l a a Ju r a y e	Bai  r a l a a h l a Ting  r	a s h i r	Bai  Ji  La  He  Ya  Ju  La  Ting  Liao	
+Zuo  Wang  Cheng		座 王 n	Zuo n Cheng	Zuo  Wang  n	s h i m a	Zuo  Wang  Cheng	
+Hou  Lai  Ta  Men  Dao  Liao  Bo  Sai  Da		后 a a m a r b s e e t h a	b r o n a m Men l e b o s h e e a	Hou  a a m a r b s e e t h a	e l i s	Hou  Lai  Ta  Men  Dao  Liao  Bo  Sai  Da	
+Li  Ya  Shuo		l i a h	a r i a	l i a h	e l i a h	l i a h	l i a h
+Zai  Mi  Li  Ba  Shui  Bian  Yu  Ta  Men  Zheng  Lun  Guo  De  .		a m i l i p 水 边 与 a m 争 论 过 a e	m i r a n b e e m Men Zheng r Guo i a h	a m i l i p Shui  Bian  Yu  a m Zheng  Lun  Guo  a e	m i l a s	Zai  Mi  Li  Ba  Shui  Bian  Yu  Ta  Men  Zheng  Lun  Guo  De  .	
+Shi  Bi  Li  Jia  De  Er  Zi		a b r i a k i h	s p a c h e h	a b r i a k i h	j i l u m	a b r i a k i h	a b r i a k i h
+Tian  Dao  Liao  Mi  Li  Du  .		s a r i m l i 都 e	l e n e m i t y	s a r i m l i Du  e	m e l i a h	Tian  Dao  Liao  Mi  Li  Du  .	
+Jiu  Ba  Ta  Dai  Lai		p e k 带 a	a t t a b a Dai a	p e k Dai  a	z a r a t h	Jiu  Ba  Ta  Dai  Lai	
+Ge  Nu  Men  Tu		a h i 女 m u n i	a h i Men Tu	a h i Nu  m u n i	e l i s	Ge  Nu  Men  Tu	
+Yin  Mai  De  Zi  Sun		音 m e c h a h	a Mai h	Yin  m e c h a h	e l i c h	Yin  Mai  De  Zi  Sun	
+He  Sao  Luo  .		和 e o l e	o n Sao l i	He  e o l e	e l i a h	He  Sao  Luo  .	
+Zen  Yang  Fu  Shi  Zhu		怎 样 服 r o n a d o n a i	Zen Yang r s a d o n a i	Zen  Yang  Fu  r o n a d o n a i	j a m a n	Zen  Yang  Fu  Shi  Zhu	
+Wang  Dui  Ha  Man  Shuo		王 对 h 曼 a	d o k h a Man a	Wang  Dui  h Man  a	a b a r	Wang  Dui  Ha  Man  Shuo	
+" You  Shuo		” 又 a	m i a h	" You  a	j e l a h	" You  Shuo	
+Yi  Sai  Ya  Ye  Shuo		e s e e a e a	e s a i a s	e s e e a e a	e l i a	e s e e a e a	e s e e a e a
+Wei  Jing  Wei		a 敬 畏	s u s s	a Jing  Wei	s h i p h	Wei  Jing  Wei	
+Shen  Yu  Ta  Tong  Zai		神 与 i t s r a	a e m y m Zai	Shen  Yu  i t s r a	m a r a t h	Shen  Yu  Ta  Tong  Zai	
+Ye  Su  De  Ling  Ye  Bu  Xu  .		j e 稣 a 灵 e s 许 e	e Su i Ling e j e p Xu i	j e Su  a Ling  e s Xu  e	e l i a h	Ye  Su  De  Ling  Ye  Bu  Xu  .	
+Sa  La  Tie  Sheng  Suo  Luo  Ba  Bo		s a l a 铁 生 o r o l p b	a r a p h Suo l a b	s a l a Tie  Sheng  o r o l p b	j a r a m	Sa  La  Tie  Sheng  Suo  Luo  Ba  Bo	
+Suo  Ba  Wang  Ha  Da  Di  Xie  Dao  You  Fa  La  Di  He  Qu		z o p 王 h t h a d e 谢 a 幼 发 l a d e 河 e	Suo a n h d z m e p h r a d o n a	z o p Wang  h t h a d e Xie  a You  Fa  l a d e He  e	j e l e l a h	Suo  Ba  Wang  Ha  Da  Di  Xie  Dao  You  Fa  La  Di  He  Qu	
+You  You  Su  Shan  Nuo		c h u z a	c h u z a	c h u z a	e l i a h	c h u z a	c h u z a
+You  Yi  Nan  De  Er  Zi  Ya  Xi  La  .		a e 南 h a h e r a h	e o Nan e h j a h	a e Nan  h a h e r a h	h a m	You  Yi  Nan  De  Er  Zi  Ya  Xi  La  .	
+Kan  Jian  Liao  Ta  Jiu  Gui  Xiang  Zhu  .		看 见 r a p 归 h a d o n a i a h	Kan m e m a t t a Gui h i a h	Kan  Jian  r a p Gui  h a d o n a i a h	m e l a t h	Kan  Jian  Liao  Ta  Jiu  Gui  Xiang  Zhu  .	
+Yi  Se  Lie  Ren  Zhu  Zai  Shi  Ting		e 色 列 e 住 a 什 亭	e s Lie i a d o n a i Zai s y	e Se  Lie  e Zhu  a Shi  Ting	e l i a h	Yi  Se  Lie  Ren  Zhu  Zai  Shi  Ting	
+Ta		a	a	a	j i c h	a	a
+Na  Ba  De		n a 八 a	n a i	n a Ba  a	j a m a n	Na  Ba  De	
+Jiu  Zuo  Xia  Lai  .		p 坐 m a e	a t t a Zuo a h a t h a n	p Zuo  m a e	m a r a t h	Jiu  Zuo  Xia  Lai  .	
+Ye  Gen  Ni  Men  Zuo  Zhan		e 跟 a m 作 战	e Gen e Men Zuo Zhan	e Gen  a m Zuo  Zhan	j e r a m	Ye  Gen  Ni  Men  Zuo  Zhan	
